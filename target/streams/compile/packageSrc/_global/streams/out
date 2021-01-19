@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/target/scala-2.13/play-scala-starter-example_2.13-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/conf/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/conf/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/conf/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Module.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/app/Module.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/MyActor.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/app/controllers/MyActor.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/HomeController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/app/controllers/HomeController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/SomeInnerClass.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/app/controllers/SomeInnerClass.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/AsyncController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/app/controllers/AsyncController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

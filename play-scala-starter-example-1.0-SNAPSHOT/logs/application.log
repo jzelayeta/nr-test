@@ -1,0 +1,6 @@
+2021-01-19 10:09:07,140 [INFO] from play.api.Play in main - Application started (Prod) (no global state)
+2021-01-19 10:09:08,114 [INFO] from play.core.server.AkkaHttpServer in main - Listening for HTTP on /[0:0:0:0:0:0:0:0]:9000
+2021-01-19 10:13:19,301 [INFO] from play.api.internal.libs.concurrent.CoordinatedShutdownSupport in Thread-20 - Starting synchronous coordinated shutdown with ServerStoppedReason reason and 2147508000 milliseconds timeout
+2021-01-19 10:13:19,304 [INFO] from play.core.server.AkkaHttpServer in Thread-20 - Stopping Akka HTTP server...
+2021-01-19 10:13:19,311 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-2 - Terminating server binding for /[0:0:0:0:0:0:0:0]:9000
+2021-01-19 10:13:19,332 [INFO] from play.core.server.AkkaHttpServer in application-akka.actor.internal-dispatcher-10 - Running provided shutdown stop hooks

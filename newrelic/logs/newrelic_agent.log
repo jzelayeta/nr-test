@@ -1,0 +1,219 @@
+2021-01-19T00:28:29,759-0300 [38302 1] com.newrelic INFO: Writing to New Relic log file: /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/logs/newrelic_agent.log
+2021-01-19T00:28:29,759-0300 [38302 1] com.newrelic INFO: JRE vendor Oracle Corporation version 14.0.2
+2021-01-19T00:28:29,759-0300 [38302 1] com.newrelic INFO: JVM vendor Oracle Corporation OpenJDK 64-Bit Server VM version 14.0.2+12-46
+2021-01-19T00:28:29,760-0300 [38302 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-01-19T00:28:29,760-0300 [38302 1] com.newrelic INFO: Agent Host: Julians-MacBook-Pro.local IP: 127.0.0.1
+2021-01-19T00:28:29,760-0300 [38302 1] com.newrelic INFO: New Relic Agent v6.3.0 is initializing...
+2021-01-19T00:28:30,359-0300 [38302 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-01-19T00:28:31,277-0300 [38302 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-01-19T00:28:31,510-0300 [38302 1] com.newrelic INFO: Setting audit_mode to false
+2021-01-19T00:28:31,606-0300 [38302 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/./newrelic.yml
+2021-01-19T00:28:31,610-0300 [38302 1] com.newrelic INFO: New Relic Agent v6.3.0 has started
+2021-01-19T00:28:31,610-0300 [38302 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@d70c109
+2021-01-19T00:28:31,610-0300 [38302 1] com.newrelic INFO: Premain startup complete in 2,467ms
+2021-01-19T00:28:36,619-0300 [38302 38] com.newrelic INFO: Host name is Julians-MacBook-Pro.local, display host Julians-MacBook-Pro.local for application zeta-test
+2021-01-19T00:28:38,500-0300 [38302 38] com.newrelic INFO: Collector redirection to collector-010.newrelic.com:443
+2021-01-19T00:28:39,685-0300 [38302 38] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-01-19T00:28:39,685-0300 [38302 38] com.newrelic INFO: Agent run id: BUqOvaWCV0ihAAB3IDZPT2VgBlI4AAIBAAAnIQEAAJWeAgQ2T09jAwAFNi4zLjAAGUp1bGlhbnMtTWFjQm9vay1Qcm8ubG9jYWwACXpldGEtdGVzdA
+2021-01-19T00:28:39,685-0300 [38302 38] com.newrelic INFO: Agent 38302@Julians-MacBook-Pro.local/zeta-test connected to collector.newrelic.com:443
+2021-01-19T00:28:39,686-0300 [38302 38] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/30496/applications/911167331
+2021-01-19T00:28:39,687-0300 [38302 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T00:28:39,689-0300 [38302 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T00:28:40,408-0300 [38302 38] com.newrelic INFO: Real user monitoring is not enabled for application "zeta-test"
+2021-01-19T00:29:58,232-0300 [38302 13] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-01-19T00:29:58,931-0300 [38302 13] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-01-19T00:31:18,753-0300 [40489 1] com.newrelic INFO: Writing to New Relic log file: /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/logs/newrelic_agent.log
+2021-01-19T00:31:18,754-0300 [40489 1] com.newrelic INFO: JRE vendor Oracle Corporation version 14.0.2
+2021-01-19T00:31:18,754-0300 [40489 1] com.newrelic INFO: JVM vendor Oracle Corporation OpenJDK 64-Bit Server VM version 14.0.2+12-46
+2021-01-19T00:31:18,754-0300 [40489 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-01-19T00:31:18,754-0300 [40489 1] com.newrelic INFO: Agent Host: Julians-MacBook-Pro.local IP: 192.168.0.70
+2021-01-19T00:31:18,754-0300 [40489 1] com.newrelic INFO: New Relic Agent v6.3.0 is initializing...
+2021-01-19T00:31:19,240-0300 [40489 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-01-19T00:31:19,990-0300 [40489 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-01-19T00:31:20,252-0300 [40489 1] com.newrelic INFO: Setting audit_mode to false
+2021-01-19T00:31:20,356-0300 [40489 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/./newrelic.yml
+2021-01-19T00:31:20,361-0300 [40489 1] com.newrelic INFO: New Relic Agent v6.3.0 has started
+2021-01-19T00:31:20,361-0300 [40489 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@d70c109
+2021-01-19T00:31:20,361-0300 [40489 1] com.newrelic INFO: Premain startup complete in 2,136ms
+2021-01-19T00:31:25,369-0300 [40489 38] com.newrelic INFO: Host name is Julians-MacBook-Pro.local, display host Julians-MacBook-Pro.local for application zeta-test
+2021-01-19T00:31:26,530-0300 [40489 38] com.newrelic INFO: Collector redirection to collector-010.newrelic.com:443
+2021-01-19T00:31:27,344-0300 [40489 38] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-01-19T00:31:27,344-0300 [40489 38] com.newrelic INFO: Agent run id: BXUai_qk1V2EAAB3IDZPT2VgBlLsAAIBAAAnIQEAAJ4pAgQ2T09jAwAFNi4zLjAAGUp1bGlhbnMtTWFjQm9vay1Qcm8ubG9jYWwACXpldGEtdGVzdA
+2021-01-19T00:31:27,345-0300 [40489 38] com.newrelic INFO: Agent 40489@Julians-MacBook-Pro.local/zeta-test connected to collector.newrelic.com:443
+2021-01-19T00:31:27,345-0300 [40489 38] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/30496/applications/911167331
+2021-01-19T00:31:27,346-0300 [40489 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T00:31:27,348-0300 [40489 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T00:31:28,364-0300 [40489 38] com.newrelic INFO: Real user monitoring is not enabled for application "zeta-test"
+2021-01-19T00:32:45,790-0300 [40489 13] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-01-19T00:32:47,074-0300 [40489 13] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-01-19T09:36:00,871-0300 [55547 1] com.newrelic INFO: Writing to New Relic log file: /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/logs/newrelic_agent.log
+2021-01-19T09:36:00,872-0300 [55547 1] com.newrelic INFO: JRE vendor Oracle Corporation version 14.0.2
+2021-01-19T09:36:00,872-0300 [55547 1] com.newrelic INFO: JVM vendor Oracle Corporation OpenJDK 64-Bit Server VM version 14.0.2+12-46
+2021-01-19T09:36:00,872-0300 [55547 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-01-19T09:36:00,872-0300 [55547 1] com.newrelic INFO: Agent Host: Julians-MacBook-Pro.local IP: 127.0.0.1
+2021-01-19T09:36:00,872-0300 [55547 1] com.newrelic INFO: New Relic Agent v6.3.0 is initializing...
+2021-01-19T09:36:01,561-0300 [55547 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-01-19T09:36:02,483-0300 [55547 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-01-19T09:36:02,759-0300 [55547 1] com.newrelic INFO: Setting audit_mode to false
+2021-01-19T09:36:02,861-0300 [55547 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/./newrelic.yml
+2021-01-19T09:36:02,866-0300 [55547 1] com.newrelic INFO: New Relic Agent v6.3.0 has started
+2021-01-19T09:36:02,866-0300 [55547 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@d70c109
+2021-01-19T09:36:02,866-0300 [55547 1] com.newrelic INFO: Premain startup complete in 2,867ms
+2021-01-19T09:36:07,870-0300 [55547 38] com.newrelic INFO: Host name is Julians-MacBook-Pro.local, display host Julians-MacBook-Pro.local for application zeta-test
+2021-01-19T09:36:09,222-0300 [55547 38] com.newrelic INFO: Collector redirection to collector-010.newrelic.com:443
+2021-01-19T09:36:10,275-0300 [55547 38] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-01-19T09:36:10,275-0300 [55547 38] com.newrelic INFO: Agent run id: Bb5Asm-4cKAzAAB3IDZPT2VgBtKoAAIBAAAnIQEAANj7AgQ2T09jAwAFNi4zLjAAGUp1bGlhbnMtTWFjQm9vay1Qcm8ubG9jYWwACXpldGEtdGVzdA
+2021-01-19T09:36:10,276-0300 [55547 38] com.newrelic INFO: Agent 55547@Julians-MacBook-Pro.local/zeta-test connected to collector.newrelic.com:443
+2021-01-19T09:36:10,277-0300 [55547 38] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/30496/applications/911167331
+2021-01-19T09:36:10,279-0300 [55547 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T09:36:10,282-0300 [55547 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T09:36:10,297-0300 [55547 38] com.newrelic INFO: Real user monitoring is not enabled for application "zeta-test"
+2021-01-19T09:36:49,997-0300 [55547 13] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-01-19T09:36:50,675-0300 [55547 13] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-01-19T09:37:37,817-0300 [57506 1] com.newrelic INFO: Writing to New Relic log file: /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/logs/newrelic_agent.log
+2021-01-19T09:37:37,818-0300 [57506 1] com.newrelic INFO: JRE vendor Oracle Corporation version 14.0.2
+2021-01-19T09:37:37,818-0300 [57506 1] com.newrelic INFO: JVM vendor Oracle Corporation OpenJDK 64-Bit Server VM version 14.0.2+12-46
+2021-01-19T09:37:37,818-0300 [57506 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-01-19T09:37:37,818-0300 [57506 1] com.newrelic INFO: Agent Host: Julians-MacBook-Pro.local IP: 127.0.0.1
+2021-01-19T09:37:37,818-0300 [57506 1] com.newrelic INFO: New Relic Agent v6.3.0 is initializing...
+2021-01-19T09:37:38,346-0300 [57506 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-01-19T09:37:39,141-0300 [57506 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-01-19T09:37:39,469-0300 [57506 1] com.newrelic INFO: Setting audit_mode to false
+2021-01-19T09:37:39,591-0300 [57506 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/./newrelic.yml
+2021-01-19T09:37:39,597-0300 [57506 1] com.newrelic INFO: New Relic Agent v6.3.0 has started
+2021-01-19T09:37:39,597-0300 [57506 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@d70c109
+2021-01-19T09:37:39,597-0300 [57506 1] com.newrelic INFO: Premain startup complete in 2,316ms
+2021-01-19T09:37:44,600-0300 [57506 38] com.newrelic INFO: Host name is Julians-MacBook-Pro.local, display host Julians-MacBook-Pro.local for application zeta-test
+2021-01-19T09:37:45,608-0300 [57506 38] com.newrelic INFO: Collector redirection to collector-010.newrelic.com:443
+2021-01-19T09:37:46,593-0300 [57506 38] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-01-19T09:37:46,593-0300 [57506 38] com.newrelic INFO: Agent run id: BUPGJeiF25qYAAB3IDZPT2VgBtLkAAIBAAAnIQEAAOCiAgQ2T09jAwAFNi4zLjAAGUp1bGlhbnMtTWFjQm9vay1Qcm8ubG9jYWwACXpldGEtdGVzdA
+2021-01-19T09:37:46,594-0300 [57506 38] com.newrelic INFO: Agent 57506@Julians-MacBook-Pro.local/zeta-test connected to collector.newrelic.com:443
+2021-01-19T09:37:46,596-0300 [57506 38] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/30496/applications/911167331
+2021-01-19T09:37:46,601-0300 [57506 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T09:37:46,606-0300 [57506 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T09:37:47,820-0300 [57506 38] com.newrelic INFO: Real user monitoring is not enabled for application "zeta-test"
+2021-01-19T09:38:52,068-0300 [57506 13] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-01-19T09:38:52,587-0300 [57506 13] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-01-19T09:40:31,802-0300 [58958 1] com.newrelic INFO: Writing to New Relic log file: /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/logs/newrelic_agent.log
+2021-01-19T09:40:31,803-0300 [58958 1] com.newrelic INFO: JRE vendor Oracle Corporation version 14.0.2
+2021-01-19T09:40:31,803-0300 [58958 1] com.newrelic INFO: JVM vendor Oracle Corporation OpenJDK 64-Bit Server VM version 14.0.2+12-46
+2021-01-19T09:40:31,803-0300 [58958 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-01-19T09:40:31,803-0300 [58958 1] com.newrelic INFO: Agent Host: Julians-MacBook-Pro.local IP: 127.0.0.1
+2021-01-19T09:40:31,803-0300 [58958 1] com.newrelic INFO: New Relic Agent v6.3.0 is initializing...
+2021-01-19T09:40:32,390-0300 [58958 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-01-19T09:40:33,164-0300 [58958 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-01-19T09:40:33,456-0300 [58958 1] com.newrelic INFO: Setting audit_mode to false
+2021-01-19T09:40:33,593-0300 [58958 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/./newrelic.yml
+2021-01-19T09:40:33,599-0300 [58958 1] com.newrelic INFO: New Relic Agent v6.3.0 has started
+2021-01-19T09:40:33,599-0300 [58958 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@d70c109
+2021-01-19T09:40:33,599-0300 [58958 1] com.newrelic INFO: Premain startup complete in 2,372ms
+2021-01-19T09:40:38,610-0300 [58958 38] com.newrelic INFO: Host name is Julians-MacBook-Pro.local, display host Julians-MacBook-Pro.local for application zeta-test
+2021-01-19T09:40:39,620-0300 [58958 38] com.newrelic INFO: Collector redirection to collector-010.newrelic.com:443
+2021-01-19T09:40:40,388-0300 [58958 38] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-01-19T09:40:40,388-0300 [58958 38] com.newrelic INFO: Agent run id: BY9dKA_J099pAAB3IDZPT2VgBtOYAAIBAAAnIQEAAOZOAgQ2T09jAwAFNi4zLjAAGUp1bGlhbnMtTWFjQm9vay1Qcm8ubG9jYWwACXpldGEtdGVzdA
+2021-01-19T09:40:40,389-0300 [58958 38] com.newrelic INFO: Agent 58958@Julians-MacBook-Pro.local/zeta-test connected to collector.newrelic.com:443
+2021-01-19T09:40:40,390-0300 [58958 38] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/30496/applications/911167331
+2021-01-19T09:40:40,392-0300 [58958 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T09:40:40,394-0300 [58958 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T09:40:40,416-0300 [58958 38] com.newrelic INFO: Real user monitoring is not enabled for application "zeta-test"
+2021-01-19T09:42:52,508-0300 [58958 13] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-01-19T09:42:53,173-0300 [58958 13] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-01-19T09:43:12,376-0300 [60176 1] com.newrelic INFO: Writing to New Relic log file: /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/logs/newrelic_agent.log
+2021-01-19T09:43:12,377-0300 [60176 1] com.newrelic INFO: JRE vendor Oracle Corporation version 14.0.2
+2021-01-19T09:43:12,377-0300 [60176 1] com.newrelic INFO: JVM vendor Oracle Corporation OpenJDK 64-Bit Server VM version 14.0.2+12-46
+2021-01-19T09:43:12,377-0300 [60176 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-01-19T09:43:12,377-0300 [60176 1] com.newrelic INFO: Agent Host: Julians-MacBook-Pro.local IP: 127.0.0.1
+2021-01-19T09:43:12,378-0300 [60176 1] com.newrelic INFO: New Relic Agent v6.3.0 is initializing...
+2021-01-19T09:43:12,898-0300 [60176 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-01-19T09:43:13,729-0300 [60176 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-01-19T09:43:14,001-0300 [60176 1] com.newrelic INFO: Setting audit_mode to false
+2021-01-19T09:43:14,131-0300 [60176 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/./newrelic.yml
+2021-01-19T09:43:14,138-0300 [60176 1] com.newrelic INFO: New Relic Agent v6.3.0 has started
+2021-01-19T09:43:14,138-0300 [60176 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@d70c109
+2021-01-19T09:43:14,138-0300 [60176 1] com.newrelic INFO: Premain startup complete in 2,407ms
+2021-01-19T09:43:19,145-0300 [60176 38] com.newrelic INFO: Host name is Julians-MacBook-Pro.local, display host Julians-MacBook-Pro.local for application zeta-test
+2021-01-19T09:43:20,038-0300 [60176 38] com.newrelic INFO: Collector redirection to collector-010.newrelic.com:443
+2021-01-19T09:43:20,994-0300 [60176 38] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-01-19T09:43:20,994-0300 [60176 38] com.newrelic INFO: Agent run id: BSfsvJneM0DhAAB3IDZPT2VgBtRMAAIBAAAnIQEAAOsQAgQ2T09jAwAFNi4zLjAAGUp1bGlhbnMtTWFjQm9vay1Qcm8ubG9jYWwACXpldGEtdGVzdA
+2021-01-19T09:43:20,994-0300 [60176 38] com.newrelic INFO: Agent 60176@Julians-MacBook-Pro.local/zeta-test connected to collector.newrelic.com:443
+2021-01-19T09:43:20,995-0300 [60176 38] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/30496/applications/911167331
+2021-01-19T09:43:20,996-0300 [60176 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T09:43:20,998-0300 [60176 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T09:43:21,015-0300 [60176 38] com.newrelic INFO: Real user monitoring is not enabled for application "zeta-test"
+2021-01-19T09:45:40,193-0300 [60176 55] com.newrelic INFO: Remote metric_data call failed : javax.net.ssl.SSLException: Operation timed out.
+2021-01-19T09:45:40,197-0300 [60176 55] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic. Please file a support ticket once you have seen several of these messages in a short period of time: javax.net.ssl.SSLException: Operation timed out
+2021-01-19T09:45:42,578-0300 [60176 55] com.newrelic INFO: Successfully reconnected to the New Relic data service.
+2021-01-19T09:45:43,121-0300 [60176 13] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-01-19T09:45:43,644-0300 [60176 13] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-01-19T09:57:29,593-0300 [61423 1] com.newrelic INFO: Writing to New Relic log file: /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/logs/newrelic_agent.log
+2021-01-19T09:57:29,594-0300 [61423 1] com.newrelic INFO: JRE vendor Oracle Corporation version 14.0.2
+2021-01-19T09:57:29,594-0300 [61423 1] com.newrelic INFO: JVM vendor Oracle Corporation OpenJDK 64-Bit Server VM version 14.0.2+12-46
+2021-01-19T09:57:29,595-0300 [61423 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-01-19T09:57:29,595-0300 [61423 1] com.newrelic INFO: Agent Host: Julians-MacBook-Pro.local IP: 192.168.0.70
+2021-01-19T09:57:29,595-0300 [61423 1] com.newrelic INFO: New Relic Agent v6.3.0 is initializing...
+2021-01-19T09:57:30,326-0300 [61423 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-01-19T09:57:31,487-0300 [61423 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-01-19T09:57:31,855-0300 [61423 1] com.newrelic INFO: Setting audit_mode to false
+2021-01-19T09:57:32,012-0300 [61423 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/./newrelic.yml
+2021-01-19T09:57:32,020-0300 [61423 1] com.newrelic INFO: New Relic Agent v6.3.0 has started
+2021-01-19T09:57:32,020-0300 [61423 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@d70c109
+2021-01-19T09:57:32,020-0300 [61423 1] com.newrelic INFO: Premain startup complete in 3,225ms
+2021-01-19T09:57:37,025-0300 [61423 38] com.newrelic INFO: Host name is Julians-MacBook-Pro.local, display host Julians-MacBook-Pro.local for application zeta-test
+2021-01-19T09:57:38,036-0300 [61423 38] com.newrelic INFO: Collector redirection to collector-010.newrelic.com:443
+2021-01-19T09:57:38,811-0300 [61423 38] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-01-19T09:57:38,811-0300 [61423 38] com.newrelic INFO: Agent run id: BdgqJtHm7ggMAAB3IDZPT2VgBteUAAIBAAAnIQEAAO_vAgQ2T09jAwAFNi4zLjAAGUp1bGlhbnMtTWFjQm9vay1Qcm8ubG9jYWwACXpldGEtdGVzdA
+2021-01-19T09:57:38,811-0300 [61423 38] com.newrelic INFO: Agent 61423@Julians-MacBook-Pro.local/zeta-test connected to collector.newrelic.com:443
+2021-01-19T09:57:38,812-0300 [61423 38] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/30496/applications/911167331
+2021-01-19T09:57:38,813-0300 [61423 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T09:57:38,815-0300 [61423 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T09:57:38,834-0300 [61423 38] com.newrelic INFO: Real user monitoring is not enabled for application "zeta-test"
+2021-01-19T10:02:21,809-0300 [61423 13] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-01-19T10:02:22,441-0300 [61423 13] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-01-19T10:02:40,993-0300 [62606 1] com.newrelic INFO: Writing to New Relic log file: /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/logs/newrelic_agent.log
+2021-01-19T10:02:40,994-0300 [62606 1] com.newrelic INFO: JRE vendor Oracle Corporation version 14.0.2
+2021-01-19T10:02:40,994-0300 [62606 1] com.newrelic INFO: JVM vendor Oracle Corporation OpenJDK 64-Bit Server VM version 14.0.2+12-46
+2021-01-19T10:02:40,994-0300 [62606 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-01-19T10:02:40,994-0300 [62606 1] com.newrelic INFO: Agent Host: Julians-MacBook-Pro.local IP: 192.168.0.70
+2021-01-19T10:02:40,994-0300 [62606 1] com.newrelic INFO: New Relic Agent v6.3.0 is initializing...
+2021-01-19T10:02:41,681-0300 [62606 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-01-19T10:02:42,671-0300 [62606 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-01-19T10:02:43,039-0300 [62606 1] com.newrelic INFO: Setting audit_mode to false
+2021-01-19T10:02:43,238-0300 [62606 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/./newrelic.yml
+2021-01-19T10:02:43,247-0300 [62606 1] com.newrelic INFO: New Relic Agent v6.3.0 has started
+2021-01-19T10:02:43,247-0300 [62606 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@d70c109
+2021-01-19T10:02:43,248-0300 [62606 1] com.newrelic INFO: Premain startup complete in 2,839ms
+2021-01-19T10:02:48,252-0300 [62606 38] com.newrelic INFO: Host name is Julians-MacBook-Pro.local, display host Julians-MacBook-Pro.local for application zeta-test
+2021-01-19T10:02:49,019-0300 [62606 38] com.newrelic INFO: Collector redirection to collector-010.newrelic.com:443
+2021-01-19T10:02:49,594-0300 [62606 38] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-01-19T10:02:49,594-0300 [62606 38] com.newrelic INFO: Agent run id: BcIFlmXHhKZIAAB3IDZPT2VgBtjAAAIBAAAnIQEAAPSOAgQ2T09jAwAFNi4zLjAAGUp1bGlhbnMtTWFjQm9vay1Qcm8ubG9jYWwACXpldGEtdGVzdA
+2021-01-19T10:02:49,594-0300 [62606 38] com.newrelic INFO: Agent 62606@Julians-MacBook-Pro.local/zeta-test connected to collector.newrelic.com:443
+2021-01-19T10:02:49,594-0300 [62606 38] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/30496/applications/911167331
+2021-01-19T10:02:49,596-0300 [62606 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T10:02:49,598-0300 [62606 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T10:02:50,565-0300 [62606 38] com.newrelic INFO: Real user monitoring is not enabled for application "zeta-test"
+2021-01-19T10:08:39,722-0300 [62606 13] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-01-19T10:08:40,160-0300 [62606 13] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-01-19T10:09:00,688-0300 [63713 1] com.newrelic INFO: Writing to New Relic log file: /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/logs/newrelic_agent.log
+2021-01-19T10:09:00,689-0300 [63713 1] com.newrelic INFO: JRE vendor Oracle Corporation version 14.0.2
+2021-01-19T10:09:00,689-0300 [63713 1] com.newrelic INFO: JVM vendor Oracle Corporation OpenJDK 64-Bit Server VM version 14.0.2+12-46
+2021-01-19T10:09:00,690-0300 [63713 1] com.newrelic INFO: OS Mac OS X version 10.16 arch x86_64
+2021-01-19T10:09:00,690-0300 [63713 1] com.newrelic INFO: Agent Host: Julians-MacBook-Pro.local IP: 192.168.0.70
+2021-01-19T10:09:00,690-0300 [63713 1] com.newrelic INFO: New Relic Agent v6.3.0 is initializing...
+2021-01-19T10:09:01,324-0300 [63713 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-01-19T10:09:02,445-0300 [63713 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-01-19T10:09:02,841-0300 [63713 1] com.newrelic INFO: Setting audit_mode to false
+2021-01-19T10:09:03,024-0300 [63713 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/julianzelayeta/Downloads/play-samples-play-scala-starter-example/newrelic/./newrelic.yml
+2021-01-19T10:09:03,031-0300 [63713 1] com.newrelic INFO: New Relic Agent v6.3.0 has started
+2021-01-19T10:09:03,031-0300 [63713 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@d70c109
+2021-01-19T10:09:03,032-0300 [63713 1] com.newrelic INFO: Premain startup complete in 2,923ms
+2021-01-19T10:09:13,039-0300 [63713 38] com.newrelic INFO: Host name is Julians-MacBook-Pro.local, display host Julians-MacBook-Pro.local for application zeta-test
+2021-01-19T10:09:13,911-0300 [63713 38] com.newrelic INFO: Collector redirection to collector-010.newrelic.com:443
+2021-01-19T10:09:14,517-0300 [63713 38] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-01-19T10:09:14,518-0300 [63713 38] com.newrelic INFO: Agent run id: BfPRRaPpm377AAB3IDZPT2VgBtpkAAIBAAAnIQEAAPjhAgQ2T09jAwAFNi4zLjAAGUp1bGlhbnMtTWFjQm9vay1Qcm8ubG9jYWwACXpldGEtdGVzdA
+2021-01-19T10:09:14,518-0300 [63713 38] com.newrelic INFO: Agent 63713@Julians-MacBook-Pro.local/zeta-test connected to collector.newrelic.com:443
+2021-01-19T10:09:14,518-0300 [63713 38] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/30496/applications/911167331
+2021-01-19T10:09:14,520-0300 [63713 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T10:09:14,522-0300 [63713 38] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-01-19T10:09:15,468-0300 [63713 38] com.newrelic INFO: Real user monitoring is not enabled for application "zeta-test"
+2021-01-19T10:13:19,297-0300 [63713 13] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-01-19T10:13:28,639-0300 [63713 13] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
